@@ -1,6 +1,5 @@
 - Hi, I’m @MissIeshaa, located near Nashville, Tennessee.
-- As a Computer Science major, I am developing strong skills in Python development, backend engineering, and clean code.
-- 
+- As a Computer Science Graduate with a concentration towards software development, I have developed  strong skills in Python and seeking hands-on experience to further enhance my expertise. My past experiences have sharpened my adaptability and teamwork skills, enabling me to thrive in dynamic environments
 
 <!---
 MissIeshaa/MissIeshaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
